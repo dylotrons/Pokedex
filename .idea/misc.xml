@@ -6,8 +6,9 @@
         <entry key="..\:/Users/dannyou/AndroidStudioProjects/KotlinPokedexApp/app/src/main/res/drawable-v24/img_pokeball.xml" value="0.324" />
         <entry key="..\:/Users/dannyou/AndroidStudioProjects/KotlinPokedexApp/app/src/main/res/drawable-v24/type_item_oval_bg.xml" value="0.324" />
         <entry key="..\:/Users/dannyou/AndroidStudioProjects/KotlinPokedexApp/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/dannyou/AndroidStudioProjects/KotlinPokedexApp/app/src/main/res/layout/fragment_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/dannyou/AndroidStudioProjects/KotlinPokedexApp/app/src/main/res/layout/item_pokemon.xml" value="0.5" />
-        <entry key="..\:/Users/dannyou/AndroidStudioProjects/KotlinPokedexApp/app/src/main/res/layout/type_buttons_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/dannyou/AndroidStudioProjects/KotlinPokedexApp/app/src/main/res/layout/type_buttons_layout.xml" value="0.75" />
       </map>
     </option>
   </component>
