@@ -52,9 +52,9 @@ class PokeRepository(val context: Context) {
         dao.insert(pokemon)
     }
 
-    fun getAllFromDatabase(query: String): List<Pokemon>? {
+    fun getAllFromDatabase(): List<Pokemon>? {
         val dao = database.pokemonDAO()
-        return dao.getFiltered(query.lowercase())
+        return dao.getAll()
     }
 
     fun getAllFromDatabaseWithFilter(query: String) : List<Pokemon> {
